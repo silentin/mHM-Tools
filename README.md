@@ -8,7 +8,10 @@ mHM-Tools is a toolbox to pre- and post-process data for and from mHM.
 </a>
 
 ## Installation
-
+```shell
+$ pip install mhm-tools
+```
+or from the repositoy
 ```shell
 $ pip install git+https://git.ufz.de/mhm/mhm-tools.git
 ```
